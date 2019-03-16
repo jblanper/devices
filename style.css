@@ -102,7 +102,9 @@ img {
   body {
     width: 92%;
   }
+}
 
+@media (hover: none) {
   .overlay { visibility: visible; }
 }
 
